@@ -30,9 +30,11 @@ This script will **permanently erase** all data on the selected drive. Use with 
 .\Drive_Wipe.ps1
 ```
 4. Select a drive from the displayed list
+   
 ![image](https://github.com/user-attachments/assets/9dd446e5-7a88-4a85-8738-2091e260a8b5)
 
 5. Confirm the operation when prompted
+   
 ![image](https://github.com/user-attachments/assets/64e94645-6d9b-4a66-97ed-2bef206ad312)
 
 
