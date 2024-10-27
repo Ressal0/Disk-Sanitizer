@@ -1,4 +1,4 @@
-# Drive Wipe PowerShell Script
+# Drive Wipe script
 
 A PowerShell script for securely wiping non-system drives on Windows systems. This script provides a safe way to sanitize drives by overwriting them with zeros.
 
